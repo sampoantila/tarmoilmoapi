@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Tarmo ilmo backend",
   "main": "app.js",
+  "homepage": "https://tarmo-ilmo-api-dev.azurewebsites.net",
   "scripts": {
     "dev": "tsc-watch --onSuccess \"node ./build/app.js\"",
     "start": "node ./build/app.js",
