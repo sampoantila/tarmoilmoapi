@@ -21,6 +21,9 @@ https://12factor.net/
 https://helmetjs.github.io/docs/
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/deployment
 
+https://medium.com/javascript-in-plain-english/deploying-node-js-app-using-azure-devops-part1-74cb13a6bd02
+https://medium.com/javascript-in-plain-english/deploying-node-js-app-using-azure-devops-part2-4567e4cf783b
+
 ## Authenticate process
 
 - authenticate
